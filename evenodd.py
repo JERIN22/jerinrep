@@ -1,6 +1,6 @@
-num=int(input())
-if(num>0):
-  if(num%2==0):
+num1=int(input())
+if(num1>0):
+  if(num1%2==0):
     print("Even")
   else:
     print("Odd")
